@@ -1,7 +1,7 @@
 # AIML
 Artificial Intelligence & Machine Learning
 
-From September 2021 - May 2022 I was in a Post Graduate Program on Artificial Intelligence & Machine Learning for Business Applications by the University of Texas at Austin McCombs Schoole of Business.
+From September 2021 - May 2022 I was in a Post Graduate Program on Artificial Intelligence & Machine Learning for Business Applications by the University of Texas at Austin | McCombs School of Business.
 A summary of the different project completed are here: https://eportfolio.mygreatlearning.com/nolan-grieves.
 Certificate here: https://la.utexas.edu/texasexeced/digitalVerification.html?key=LZvJy
 
